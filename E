@@ -1,0 +1,10 @@
+#ENGLISH
+Command List
+==============
+
+CMD - Command list
+BOOT - Pulls Up The Menu To Boot
+PING - Pings An IP Of Choice
+MYIP - Shows Your IPV4
+DL - Generates A Download Link
+HELP - Put Before A Command For The Instructions.
